@@ -16,7 +16,8 @@
         {
             "type": "composer",
             "url": "https://plugins.roundcube.net"
-        }
+        },
+         {"type": "vcs","url": "https://github.com/jell0720/libcalendaring.git"}
     ],
     "require": {
         "php": ">=5.4.0",
